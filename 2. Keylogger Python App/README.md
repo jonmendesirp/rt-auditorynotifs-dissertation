@@ -1,5 +1,7 @@
 # MyKeyLogger
 
+DISCLAIMER: This file was written by Codex
+
 MyKeyLogger is a small Python desktop application for recording timestamped
 hotkey events during a timed session. It provides a Tkinter interface for
 starting and stopping capture, choosing a hotkey, viewing elapsed time, and
