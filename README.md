@@ -7,9 +7,9 @@ This repository includes files that are relevant to the reading of the author's 
 - 2. Keylogger Python App
     The code for the keylogger app used to help measure participant's reaction time. It can easuly be built for any OS using the package PyInstaller
 - 3. Age of Empires II Files
-  - 3.1 Scenarios
+  - Scenarios
         The scenarios used in the experiment, as well as instructions to install them.
-  - 3.2 Mods
+  - Mods
         The 3 mods used, each with its Auditory Notifications, with instructions to install them.
 - 4. Google Forms Bookmarklet
      In order for the question regarding the NASA-TLX to fully appear on screen, this js bookmarklet was used and constantly injected through the extension TamperMonkey when it detected a google forms page.
